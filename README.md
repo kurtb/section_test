@@ -3,3 +3,5 @@
 An example of how to use GitHub
 
 With another line of text
+
+With another extra line
